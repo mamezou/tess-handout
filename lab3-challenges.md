@@ -40,7 +40,7 @@
 
 **ヒント**: ソースコードは、ラボ2のユーザーデータに書いてあるURL(`https://aws-tc-largeobjects.s3-us-west-2.amazonaws.com/ILT-TF-100-TECESS-5/app/app.zip`)からダウンロードできる。読むファイルは`helpers/aws.js`、`api/controllers/employees.js`、`api/controllers/settings.js`、`api/common/constants.js`。SDKの呼び出しは`s3.`、`S3.`、`dynamodb.`で検索すると見つかる。
 
-## 課題3-5: DynamoDBはテーブルを作っただけで、なぜ読み書きできるのか
+## 課題3-4: DynamoDBはテーブルを作っただけで、なぜ読み書きできるのか
 
 **ゴール**: S3はバケットポリシーを書かないと使えなかったのに、DynamoDBはテーブルを作っただけで従業員の追加・更新・削除ができた。理由を、EC2インスタンスに付いているIAMロールから説明する。
 
