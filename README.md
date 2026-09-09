@@ -12,4 +12,6 @@
 
 | 資料 | 対象 |
 | --- | --- |
-| [追加チャレンジ (ラボ 2〜4)](challenges.md) | ラボ 2 (VPC と EC2)、ラボ 3 (S3 と DynamoDB)、ラボ 4 (ALB と Auto Scaling) |
+| [ラボ 2 の追加チャレンジ](lab2-challenges.md) | VPC と EC2 |
+| [ラボ 3 の追加チャレンジ](lab3-challenges.md) | S3 と DynamoDB |
+| [ラボ 4 の追加チャレンジ](lab4-challenges.md) | ALB と Auto Scaling |
