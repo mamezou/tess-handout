@@ -1,3 +1,5 @@
+> **このリポジトリは 2026-11-18 に [training-demos の aws/aws-fundamentals/technical-essentials-handout](https://github.com/mamezou/training-demos/tree/main/aws/aws-fundamentals/technical-essentials-handout) へ移しました。** これからの更新は移動先で行います。このリポジトリはアーカイブして、更新しません。
+
 # AWS Technical Essentials 受講者向け配布資料
 
 ラボを早く終えた人向けの追加課題です。ラボ本体の手順は研修ポータルを使ってください。
